@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Revathi Reddy 👋
 
-<!--
-**revathireddy8/revathireddy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Analyst
+📊 Skills: Power BI | Excel | SQL
+📍 Hyderabad, India
+📫 Connect with me: [Add your LinkedIn URL here]
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm currently working on **Data Analytics Projects**
+- 🌱 I'm currently learning **Power BI & SQL**
+- 💡 I enjoy turning raw data into meaningful insights
+- 🤝 Open to **collaborations and opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- 📊 Power BI
+- 📁 Microsoft Excel
+- 🗄️ SQL
