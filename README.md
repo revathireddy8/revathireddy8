@@ -3,7 +3,6 @@
 🎓 Aspiring Data Analyst
 📊 Skills: Power BI | Excel | SQL
 📍 Hyderabad, India
-📫 Connect with me: [Add your LinkedIn URL here]
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **Data Analytics Projects**
