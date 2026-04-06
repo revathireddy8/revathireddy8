@@ -1,4 +1,4 @@
-# Hi, I'm Revathi Reddy 👋
+# Hi, I'm Revathi👋
 
 🎓 Aspiring Data Analyst
 📊 Skills: Power BI | Excel | SQL
