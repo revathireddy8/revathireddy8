@@ -1,6 +1,6 @@
 # Hi, I'm Revathi👋
 
-🎓 Aspiring Data Analyst
+🎓 Aspiring Business Analyst | Data Analyst
 📊 Skills: Power BI | Excel | SQL
 📍 Hyderabad, India
 
@@ -14,3 +14,6 @@
 - 📊 Power BI
 - 📁 Microsoft Excel
 - 🗄️ SQL
+- 🗂️ Jira — Project Management & Sprint Planning
+- 📝 Confluence — Documentation & BRD Writing
+- 📋 Agile & Scrum Methodology
